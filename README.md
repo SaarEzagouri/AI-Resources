@@ -2,7 +2,7 @@
 
 
 ## Websites:
-['Machine Learning Mastery:(https://machinelearningmastery.com/)'] 
+'[Machine Learning Mastery:](https://machinelearningmastery.com/)' 
 
 
 ## Books:
