@@ -2,8 +2,8 @@
 
 
 ## Websites:
--[Machine Learning Mastery](https://machinelearningmastery.com/)
--[ML-Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/#)
+[Machine Learning Mastery](https://machinelearningmastery.com/) <br>
+[ML-Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/#)
 
 
 
