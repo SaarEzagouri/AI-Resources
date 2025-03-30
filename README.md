@@ -1,8 +1,8 @@
 ## AI-Resources
 
 ## Pre-trained models: <br>
-For time-series: <br>
-
+**For time-series:** <br>
+EEG data, [EEGNet](https://github.com/aliasvishnu/EEGNet) <br>
 
 ## Repos:
 
@@ -34,3 +34,4 @@ For time-series: <br>
 
 
 
+  
