@@ -1,5 +1,11 @@
 ## AI-Resources
 
+## Pre-trained models: <br>
+For time-series: <br>
+
+
+## Repos:
+
 
 ## Websites:
 [Machine Learning Mastery](https://machinelearningmastery.com/) <br>
